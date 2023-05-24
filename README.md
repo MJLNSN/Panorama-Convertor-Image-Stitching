@@ -1,6 +1,6 @@
 # Pano_NOW
 
-## A panorama convertion program written in python.
+A panorama convertion program written in python.
 
 This is my final project for dip.
 
